@@ -1,11 +1,11 @@
 # :technologist: Apratim Nath
-## :briefcase: Senior Systems Engineer, R&D
-### 	:office: Infosys Limited
+## :briefcase: Senior Associate, Fund Services Tech
+### 	:office: Morgan Stanley
 
 -----------------------------------------
 ## :bar_chart: Experience
 #### Infosys Limited, Bengaluru - Senior Systems Engineer, R&D
-#### NOVEMBER 2018 - PRESENT
+#### NOVEMBER 2018 - AUGUST 2021
 
 - Hypothesized and illustrated multiple full-stack Cyber Security
 applications, effectively improving security infrastructure for Clients.
@@ -16,9 +16,18 @@ production and non-production servers.
 - Designed and improved visualization frameworks for better data
 conceptualization.
 
+#### Morgan Stanley, Bengaluru - Senior Associate, Fund Services Tech
+#### AUGUST 2021 - PRESENT
+
+- Modernization of legacy frameworks and application model(s) in Fund Services Admistration
+- Designed GraphQL based Search APIs for entity hierarchy trees, for scalable and time-efficient downstream consumers.
+- Part of team(s) designing and implementing application(s) related to Client Onboarding, Hege Fund Admistration.
+- Automation of order-booking lifecycle for Investor.
+
 ## :books: Skills
 #### Frontend
 - Angular (4, 6, 8, 10)
+- React using Typescript
 - Data Visualization Frameworks (Highcharts, NGX Charts, Apex Charts, Google Charts)
 - Node Server Configuration (Express, Helmet, Node SSPI)
 
@@ -27,6 +36,7 @@ conceptualization.
 - Spring Boot
 - Hibernate ORM
 - Spring Core
+- GraphQL
 - Python Flask
 
 
@@ -35,6 +45,9 @@ conceptualization.
 - MSSQL
 - Apache Druid
 - Presto
+- Sybase ASE
+- MongoDB
+- Cassandra
 
 
 #### Data Analysis
@@ -50,6 +63,7 @@ conceptualization.
 
 ## :1st_place_medal: Awards
 - ICETS Inspire Awards, Rising Star - Infosys
+- Fund Serviecs Start of the Month - Morgan Stanley
 
 ## :iphone: Contact Details
 - :telephone_receiver: 9163214329
